@@ -1,4 +1,48 @@
-.hi{
-    color: #f82525;
-    background-color: aqua;
+*{ margin: 0;
+    padding: 0;
+ box-sizing: border-box;}
+.logo h2{ font-size:45px ;
+    font-weight:900pxr;
+
+} 
+.color-orange{
+    color: #68674a;
 }
+.mihi{
+    display: flex;
+    list-style-type: none;
+    gap: 51px; 
+    align-items: center;
+}
+.mihi a{
+    font-size: 20px;
+    color: hsl(276, 91%, 46%);
+    text-decoration: none;
+}
+.but{
+    color: #010e10;
+    background-color: #11d9d9;
+    border-radius: 50% ,30,20,10;
+    border: #64610f;
+    border: none;
+    padding: 10px;
+    text-shadow: #11d9d9;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.hi{color: #188f56; ;
+background-color: rgb(198, 189, 178);
+padding-top:50px ;}
+    
+.font{
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+}
+.mou{width:71% ;
+max-width: 1140px;
+/* border:1px solid #8f1818; */
+margin: 0px auto;
+display: flex;
+justify-content: space-between;
+align-items: center; }
